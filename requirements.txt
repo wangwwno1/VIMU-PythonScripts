@@ -1,0 +1,16 @@
+numpy
+scipy
+genpy
+rospy
+rosgraph
+pandas
+data
+pyulog
+quaternion
+joblib
+matplotlib
+scikit-learn
+sympy
+pyyaml
+seaborn
+pexpect
